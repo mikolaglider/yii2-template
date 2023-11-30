@@ -16,6 +16,9 @@ nbproject
 # windows thumbnail cache
 Thumbs.db
 
+# database dir
+/db
+
 # composer vendor dir
 /vendor
 
@@ -36,3 +39,4 @@ phpunit.phar
 # ignore generated files
 /frontend/web/index.php
 /frontend/web/index-test.php
+/frontend/web/robots.txt
